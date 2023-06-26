@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @knjm18
+- 👋 Hi, I’m @Jean-Marc Koffi
 - 👀 I’m interested in frontend development 
 - 🌱 I’m currently learning 3D visuals and i develop web and desktop applications
 - 💞️ I’m looking to collaborate on a great project
